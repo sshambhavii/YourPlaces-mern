@@ -1,1 +1,1 @@
-An App built using MERN stack where a user can login and add details about the places visited by him. It allows the user to view the place on map and has the feature of file upload for the user's profile picture and the image of the place visited.
+An App built using MERN stack where a user can login and add details about the places visited by him. It allows the user to view the place on map and has the feature of file upload for the user's profile picture and the image of the place visited.The user can edit and delete images as per his accordance.
